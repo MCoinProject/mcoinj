@@ -1,2 +1,2 @@
-# litecoinj
-Java implementation of Litecoin Protocol
+# mcoinj
+Java implementation of Mcoin Protocol
